@@ -1,0 +1,5 @@
+file_format: "1"
+id: totem_dongle
+name: TOTEM Dongle
+type: shield
+requires: [seeeduino_xiao_ble]
